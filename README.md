@@ -26,8 +26,16 @@ Transfer learning allows the model to leverage features learned from large datas
 # Dataset
 
 The dataset contains bird images along with metadata files that describe image paths, labels, and train/test splits.
+This project uses the **Caltech-UCSD Birds dataset (CUB-200)**.
 
-Expected dataset structure:
+You can download the dataset here:
+
+Dataset link:
+https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images
+
+After downloading, extract it and place it in the following structure:
+
+Dataset structure:
 
 ```
 dataset/
@@ -145,8 +153,10 @@ Testing images use deterministic preprocessing:
 bird-classification/
 │
 ├── KYS.ipynb
+├── baseline.ipynb
 ├── README.md
-├── requirements.txt
+├── dataset_formatter.py
+├── txt_split_formatter.py
 │
 └── dataset/
     ├── images20/
