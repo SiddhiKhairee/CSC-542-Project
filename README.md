@@ -244,4 +244,11 @@ Possible extensions for this project:
 
 # Author
 
-Computer Vision project developed to explore deep learning techniques for image classification and transfer learning.
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/bjiang0089"><img src="https://avatars.githubusercontent.com/bjiang0089" width="100px;" alt=""/><br /><b>Brandon Jiang</b></a><br /></td>
+    <td align="center"><a href="https://github.com/jmw2423"><img src="https://avatars.githubusercontent.com/jmw2423" width="100px;" alt=""/><br /><b>Autumn Wright</b></a><br /></td>
+    <td align="center"><a href="https://github.com/SiddhiKhairee"><img src="https://avatars.githubusercontent.com/SiddhiKhairee" width="100px;" alt=""/><br /><b>Siddhi Khaire</b></a><br /></td>
+  </tr>
+</table>
+
